@@ -62,6 +62,8 @@ Simply clone the repo cd into the right directory and run agent using the below 
 4. Install pygame
    ```sh
    pip install pygame
+   pip install ipython
+   pip install matplotlib
    ```
 
 5. Install pyTorch (CPU verison). Please refer pytorch website to get right version for GPU. 
